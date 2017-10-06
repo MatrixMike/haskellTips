@@ -1,0 +1,7 @@
+https://github.com/MatrixMike/haskellTips.git
+
+https://www.haskell.org/cabal/download.html
+
+https://hackage.haskell.org/package/hsI2C
+
+
