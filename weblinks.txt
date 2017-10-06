@@ -4,4 +4,6 @@ https://www.haskell.org/cabal/download.html
 
 https://hackage.haskell.org/package/hsI2C
 
+https://www.haskell.org/ghc/
+
 
