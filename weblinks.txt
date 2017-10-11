@@ -6,4 +6,8 @@ https://hackage.haskell.org/package/hsI2C
 
 https://www.haskell.org/ghc/
 
+https://wiki.haskell.org/Tutorials
+
+https://wiki.haskell.org/Pointfree#The_owl
+
 
