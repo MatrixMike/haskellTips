@@ -12,4 +12,6 @@ https://wiki.haskell.org/Pointfree#The_owl
 
 https://wiki.haskell.org/Cabal-Install
 
+https://wiki.haskell.org/Kind
+
 
