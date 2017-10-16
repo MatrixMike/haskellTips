@@ -1,4 +1,4 @@
-#haskellTips
+haskellTips
 
 A collection of web links to things that I often forget - sort of my own bible...
 
@@ -17,5 +17,11 @@ A collection of web links to things that I often forget - sort of my own bible..
 (https://wiki.haskell.org/Cabal-Install)
 
 (https://wiki.haskell.org/Kind)
+
+(https://two-wrongs.com/haskell-time-library-tutorial)
+
+(https://techoverflow.net/2014/06/13/get-current-year-month-day-in-haskell/)
+
+(https://hackage.haskell.org/package/time)
 
 
