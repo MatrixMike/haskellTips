@@ -30,4 +30,5 @@ A collection of web links to things that I often forget - sort of my own bible..
 
 (https://www.haskell.org/hoogle/?hoogle=csv)
 
+(https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/)
 
