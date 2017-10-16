@@ -24,4 +24,10 @@ A collection of web links to things that I often forget - sort of my own bible..
 
 (https://hackage.haskell.org/package/time)
 
+(http://javatutorialhq.com/java/util/calendar-class-tutorial/set-method-example/)
+
+(https://sordina.github.io/compose_melbourne_2017_haskell_workshop/index.html)
+
+(https://www.haskell.org/hoogle/?hoogle=csv)
+
 
