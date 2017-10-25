@@ -14,4 +14,6 @@ https://wiki.haskell.org/Cabal-Install
 
 https://wiki.haskell.org/Kind
 
+https://lotz84.github.io/haskellbyexample/
+
 
