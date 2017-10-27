@@ -16,4 +16,8 @@ https://wiki.haskell.org/Kind
 
 https://lotz84.github.io/haskellbyexample/
 
+https://wiki.haskell.org/List_comprehension
+
+https://hackage.haskell.org/package/base-4.10.0.0/docs/Control-Monad.html
+
 
