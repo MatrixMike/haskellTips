@@ -22,4 +22,6 @@ https://hackage.haskell.org/package/base-4.10.0.0/docs/Control-Monad.html
 
 https://haskell-lang.org/library/http-client
 
+https://userpages.uni-koblenz.de/~laemmel/paradigms1011/resources/pdf/haskell.pdf
+
 
